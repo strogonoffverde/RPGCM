@@ -1,0 +1,27 @@
+{
+  "name": "rpgcm",
+  "version": "1.0.0",
+  "description": "O projeto consiste em uma site que organiza, gerencia e cria fichas de RPG de mesa. O nome do projeto é RPGCM.\r  Novas 4 pastas são Backend, Frontend, Databese e docs",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strogonoffverde/RPGCM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/strogonoffverde/RPGCM/issues"
+  },
+  "homepage": "https://github.com/strogonoffverde/RPGCM#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
