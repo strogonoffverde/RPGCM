@@ -22,6 +22,8 @@
   },
   "homepage": "https://github.com/strogonoffverde/RPGCM#readme",
   "dependencies": {
-    "express": "^5.2.1"
+    "dotenv": "^18.0.5",
+    "express": "^5.2.1",
+    "mysql2": "^3.24.5"
   }
 }
